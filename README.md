@@ -1,4 +1,6 @@
 ### Olá, meu nome é Herik
+- 👨🏽‍💻Procurando estágio
+- 📚Atualmente aprendendo C++, mas tenho noções básicas de Swift
 
 </div>
 
