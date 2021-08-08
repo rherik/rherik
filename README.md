@@ -1,5 +1,6 @@
-### Olá, meu nome é Herik
-- 👨🏽‍💻| Procurando estágio
+<h1> Olá, meu nome é Herik </h1>
+
+- <h4> 👨🏽‍💻| Procurando estágio </h4>
 
 <div>
   <a href="https://github.com/rherik">
@@ -7,9 +8,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rherik&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
-  ##
+
   
-  -  #### 📚| Estou estudando:
+  - <h4> 📚| Estou estudando:</h4>
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -17,7 +18,6 @@
   <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 </div>
 
-##
 
 </div>
 
