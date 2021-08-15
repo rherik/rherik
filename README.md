@@ -1,4 +1,4 @@
-<h1> Olá, meu nome é Herik </h1>
+<h1> Olá, seja bem vindo(a)! Meu perfil está em constante mudança e tenho muitas ideias de projetos para expor aqui. </h1>
 
 - <h4> 👨🏽‍💻| Procurando estágio </h4>
 
