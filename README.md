@@ -1,4 +1,5 @@
-<h1> Olá, seja bem vindo(a)! Meu perfil está em constante mudança e tenho muitas ideias de projetos para expor aqui. </h1>
+<h1> Olá, seja bem vindo(a)! </h1>
+<h3>  Meu perfil está em constante mudança e tenho muitas ideias de projetos para expor aqui. </h3>
 
 - <h4> 👨🏽‍💻| Procurando estágio </h4>
 
