@@ -17,13 +17,13 @@
 </div>
 
 </br>
-<!--
+
 <h1 align="center"> My metrics </h1>
 <div align="center">
   <a href="https://github.com/rherik"></a>
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&username=rherik" height="165" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&theme=vision-friendly-dark&hide_border=false&username=rherik" height="165em" alt="languages graph" />
- -->
+ 
   
-<!--![snake gif](https://github.com/rherik/rherik/blob/output/github-contribution-grid-snake.svg)-->
+![snake gif](https://github.com/rherik/rherik/blob/output/github-contribution-grid-snake.svg)
 </div>
