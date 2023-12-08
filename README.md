@@ -3,8 +3,8 @@
   ![Apresentação](https://readme-typing-svg.herokuapp.com/?color=D2B270&size=30&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!;My+name+is+Herik+Cunha;I'm+26+years+old;Gratuated+in+System+analysis+and+development;Focusing+on+full-stack+development!)
   
 <div align="center">
-</br>
-<h3> There're a lot of projects ideas that I intend to post here. </h3>
+
+<h2> There're a lot of projects ideas that I intend to post here. </h2>
   
 <h4> - 📚| Technologies I'm current learning: </h4>
 <div style="display: inline_block">
