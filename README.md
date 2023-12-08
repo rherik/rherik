@@ -1,6 +1,6 @@
 <a href="https://github.com/rherik">
 
-  ![Apresentação](https://readme-typing-svg.herokuapp.com/?color=D2B270&size=30&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!;My+name+is+Herik+Cunha;I'm+26+years+old;Gratuated+in+System+analysis+and+development;Focusing+on+full-stack+development!)
+  ![Apresentação](https://readme-typing-svg.herokuapp.com/?color=EDCFF7D4&size=30&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!;My+name+is+Herik+Cunha;I'm+26+years+old;Gratuated+in+System+analysis+and+development;Focusing+on+full-stack+development!)
   
 <div align="center">
 
