@@ -3,6 +3,7 @@
   ![Apresentação](https://readme-typing-svg.herokuapp.com/?color=D2B270&size=30&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!;My+name+is+Herik+Cunha;I'm+26+years+old;Gratuated+in+System+analysis+and+development;Focusing+on+full-stack+development!)
   
 <div align="center">
+</br>
 <h3> There're a lot of projects ideas that I intend to post here. </h3>
   
 <h4> - 📚| Technologies I'm current learning: </h4>
@@ -25,7 +26,7 @@
 <h1 align="center"> My metrics </h1>
 <div align="center">
   <a href="https://github.com/rherik"></a>
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&username=rherik" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rherik&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="165em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&theme=vision-friendly-dark&hide_border=false&username=rherik" height="165em" alt="languages graph" />
 </div>
 <!--
