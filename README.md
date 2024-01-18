@@ -17,7 +17,7 @@
 
 </br>
 <h1 align="center"> About me </h1>
-<p>I'm currently working at CEDAE: a large water distribuition and treatment company in Rio de janeiro.<br> Most of my personal projects are made using python, but at work I use PHP for web development.<br> You can reach me on linkedin linked below or fell free to e-mail me.</p>
+<p>My last job was at CEDAE: a large water distribuition and treatment company in Rio de janeiro.<br> Most of my personal projects are made using python, but at work I use PHP for web development.<br> You can reach me on linkedin linked below or fell free to e-mail me.</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/herik-cunha-46576b192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
