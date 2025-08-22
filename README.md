@@ -1,6 +1,6 @@
 <a href="https://github.com/rherik">
 
-  ![Apresentação](https://readme-typing-svg.herokuapp.com/?color=FFFFFFE6&size=30&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!;My+name+is+Herik+Cunha;I'm+27+years+old;Gratuated+in+System+analysis+and+development;Focusing+on+full-stack+development!)
+  ![Apresentação](https://readme-typing-svg.herokuapp.com/?color=FFFFFFE6&size=30&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!;My+name+is+Herik+Cunha;I'm+28+years+old;Gratuated+in+System+analysis+and+development;Focusing+on+full-stack+development!)
   
 <div align="center">
 
@@ -8,7 +8,8 @@
   
 <h4> - 📚| Technologies I'm current learning: </h4>
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height
+="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
