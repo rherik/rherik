@@ -1,13 +1,16 @@
 <a href="https://github.com/rherik">
 
   ![Apresentação](https://readme-typing-svg.herokuapp.com/?color=FFFFFFE6&size=30&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!;My+name+is+Herik+Cunha;I'm+29+years+old;Gratuated+in+System+analysis+and+development;Focusing+on+full-stack+development!)
-  
+
 <div align="center">
 
 <h2> There're a lot of projects ideas that I intend to post here. </h2>
   
 <h4> - 📚| Technologies I'm current learning: </h4>
 <div style="display: inline_block">
+ <!--
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeml3cnBlbzJqaXJvbTh4emJ2d3h6Mm85N3lkMnQ0bmozam42aGxxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="240" height="200" align="left">
+  -->
   <img align="center" alt="Python" height
 ="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
@@ -31,7 +34,13 @@
 <div align="center">
   <a href="https://github.com/rherik"></a>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rherik&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="165em" />
+  <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&theme=vision-friendly-dark&hide_border=false&username=rherik" height="165em" alt="languages graph" />
+  -->
 </div>
 
-![snake gif](https://github.com/rherik/rherik/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rherik/rherik/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rherik/rherik/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rherik/rherik/output/github-contribution-grid-snake.svg">
+</picture>
