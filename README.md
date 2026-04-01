@@ -22,10 +22,30 @@
 </div>
 
 </br>
-<h1 align="center"> About me </h1>
-<p>I'm currently working at Digimap. I did my intership at CEDAE: a large water distribuition and treatment company in Rio de janeiro.</br> Most of my personal projects are made using python, but at work I develop projects with jQuery and Flask for web development.</br>Now I'm working on fullstack projects using react. You can reach me on linkedin linked below or fell free to e-mail me.</p>
+
+<h1 align="center">About me</h1>
+
+<table align="center">
+  <tr>
+    <td width="60%" valign="middle">
+      <p style="text-align: left; margin: 0;">
+        I'm currently working at <strong>Digimap</strong>, a company specialized in geospatial tools.<br/>
+        I did my internship at CEDAE: a major water distribution and treatment company in Rio de Janeiro.<br/>
+        Most of my personal projects are made using python,<br/> but at work I develop projects with jQuery and Flask for web development.<br/>
+        Currently, I'm diving deeper into full stack projects using React.<br/>
+        You can reach me on LinkedIn linked below or feel free to e-mail me.
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeml3cnBlbzJqaXJvbTh4emJ2d3h6Mm85N3lkMnQ0bmozam42aGxxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="180" height="160" alt="GIF" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/herik-cunha-46576b192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/herik-cunha-46576b192/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 </br>
