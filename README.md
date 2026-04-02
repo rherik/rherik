@@ -32,7 +32,7 @@
         I'm currently working at <strong>Digimap</strong>, a company specialized in geospatial tools.<br/>
         I did my internship at CEDAE: a major water distribution and treatment company in Rio de Janeiro.<br/>
         Most of my personal projects are made using python,<br/> but at work I develop projects with jQuery and Flask for web development.<br/>
-        Currently, I'm diving deeper into full stack projects using React.<br/>
+        Currently, I'm diving deeper into full stack projects using React.<br/> I'm an entusiastic barista and also love matcha. 🌿<br />
         You can reach me on LinkedIn linked below or feel free to e-mail me.
       </p>
     </td>
